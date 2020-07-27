@@ -9,3 +9,5 @@ Graphite: needs Beryllium 108%
 Lithium: needs Graphite and Coil Connector 114%
 
 Lapis: needs 2 Silver 125%
+
+Emerald: needs Graphite and Lapis 118%
