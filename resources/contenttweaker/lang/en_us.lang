@@ -6,6 +6,7 @@ tile.nuclearcraft.turbine_dynamo_coil_redstone.name=Redstone Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_graphite.name=Graphite Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_lithium.name=Lithium Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_lapis.name=Lapis Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_emerald.name=Emerald Turbine Dynamo Coil
 
 
 
@@ -18,3 +19,5 @@ nc.sf.redstone_coil0=%s lithium dynamo coil
 nc.sf.redstone_coil1=%s lithium dynamo coils
 nc.sf.redstone_coil0=%s lapis dynamo coil
 nc.sf.redstone_coil1=%s lapis dynamo coils
+nc.sf.redstone_coil0=%s emerald dynamo coil
+nc.sf.redstone_coil1=%s emerald dynamo coils
