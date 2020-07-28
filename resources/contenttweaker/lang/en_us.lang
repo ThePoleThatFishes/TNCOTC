@@ -7,17 +7,30 @@ tile.nuclearcraft.turbine_dynamo_coil_graphite.name=Graphite Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_lithium.name=Lithium Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_lapis.name=Lapis Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_emerald.name=Emerald Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_diamond.name=Diamond Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_villaumite.name=Villaumite Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_fluorite.name=Fluorite Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_carobbiite.name=Carobbiite Turbine Dynamo Coil
+
 
 
 
 
 nc.sf.redstone_coil0=%s redstone dynamo coil
 nc.sf.redstone_coil1=%s redstone dynamo coils
-nc.sf.redstone_coil0=%s graphite dynamo coil
-nc.sf.redstone_coil1=%s graphite dynamo coils
-nc.sf.redstone_coil0=%s lithium dynamo coil
-nc.sf.redstone_coil1=%s lithium dynamo coils
-nc.sf.redstone_coil0=%s lapis dynamo coil
-nc.sf.redstone_coil1=%s lapis dynamo coils
-nc.sf.redstone_coil0=%s emerald dynamo coil
-nc.sf.redstone_coil1=%s emerald dynamo coils
+nc.sf.graphite_coil0=%s graphite dynamo coil
+nc.sf.graphite_coil1=%s graphite dynamo coils
+nc.sf.lithium_coil0=%s lithium dynamo coil
+nc.sf.lithium_coil1=%s lithium dynamo coils
+nc.sf.lapis_coil0=%s lapis dynamo coil
+nc.sf.lapis_coil1=%s lapis dynamo coils
+nc.sf.emerald_coil0=%s emerald dynamo coil
+nc.sf.emerald_coil1=%s emerald dynamo coils
+nc.sf.diamond_coil0=%s diamond dynamo coil
+nc.sf.diamond_coil1=%s diamond dynamo coils
+nc.sf.villaumite_coil0=%s villaumite dynamo coil
+nc.sf.villaumite_coil1=%s villaumite dynamo coils
+nc.sf.fluorite_coil0=%s fluorite dynamo coil
+nc.sf.fluorite_coil1=%s fluorite dynamo coils
+nc.sf.carobbiite_coil0=%s carobbiite dynamo coil
+nc.sf.carobbiite_coil1=%s carobbiite dynamo coils
