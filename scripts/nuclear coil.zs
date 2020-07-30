@@ -12,5 +12,5 @@ mods.nuclearcraft.Registration.registerTurbineCoil("fluorite", 1.17, "one graphi
 mods.nuclearcraft.Registration.registerTurbineCoil("carobbiite", 1.21, "one redstone coil && one gold coil");
 mods.nuclearcraft.Registration.registerTurbineCoil("hardcarbon", 1.22, "two axial villaumite coils");
 mods.nuclearcraft.Registration.registerTurbineCoil("zircalloy", 1.20, "one hardcarbon coil");
-mods.nuclearcraft.Registration.registerTurbineCoil("thermoconducting", 1.45, "one magnesium coil && one aluminum coil");
+mods.nuclearcraft.Registration.registerTurbineCoil("thermoconducting", 1.30, "one magnesium coil && one aluminum coil");
 
