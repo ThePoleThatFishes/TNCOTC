@@ -11,26 +11,35 @@ tile.nuclearcraft.turbine_dynamo_coil_diamond.name=Diamond Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_villaumite.name=Villaumite Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_fluorite.name=Fluorite Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_carobbiite.name=Carobbiite Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_hardcarbon.name=Hard Carbon Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_zircalloy.name=Zircalloy Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_thermoconducting.name=Thermoconducting Alloy Turbine Dynamo Coil
 
 
 
 
 
-nc.sf.redstone_coil0=%s redstone dynamo coil
-nc.sf.redstone_coil1=%s redstone dynamo coils
-nc.sf.graphite_coil0=%s graphite dynamo coil
-nc.sf.graphite_coil1=%s graphite dynamo coils
-nc.sf.lithium_coil0=%s lithium dynamo coil
-nc.sf.lithium_coil1=%s lithium dynamo coils
+nc.sf.redstone_coil0=%s Redstone dynamo coil
+nc.sf.redstone_coil1=%s Redstone dynamo coils
+nc.sf.graphite_coil0=%s Graphite dynamo coil
+nc.sf.graphite_coil1=%s Graphite dynamo coils
+nc.sf.lithium_coil0=%s Lithium dynamo coil
+nc.sf.lithium_coil1=%s Lithium dynamo coils
 nc.sf.lapis_coil0=%s lapis dynamo coil
 nc.sf.lapis_coil1=%s lapis dynamo coils
-nc.sf.emerald_coil0=%s emerald dynamo coil
-nc.sf.emerald_coil1=%s emerald dynamo coils
-nc.sf.diamond_coil0=%s diamond dynamo coil
-nc.sf.diamond_coil1=%s diamond dynamo coils
-nc.sf.villaumite_coil0=%s villaumite dynamo coil
-nc.sf.villaumite_coil1=%s villaumite dynamo coils
-nc.sf.fluorite_coil0=%s fluorite dynamo coil
-nc.sf.fluorite_coil1=%s fluorite dynamo coils
-nc.sf.carobbiite_coil0=%s carobbiite dynamo coil
-nc.sf.carobbiite_coil1=%s carobbiite dynamo coils
+nc.sf.emerald_coil0=%s Emerald dynamo coil
+nc.sf.emerald_coil1=%s Emerald dynamo coils
+nc.sf.diamond_coil0=%s Diamond dynamo coil
+nc.sf.diamond_coil1=%s Diamond dynamo coils
+nc.sf.villaumite_coil0=%s Villaumite dynamo coil
+nc.sf.villaumite_coil1=%s Villaumite dynamo coils
+nc.sf.fluorite_coil0=%s Fluorite dynamo coil
+nc.sf.fluorite_coil1=%s Fluorite dynamo coils
+nc.sf.carobbiite_coil0=%s Carobbiite dynamo coil
+nc.sf.carobbiite_coil1=%s Carobbiite dynamo coils
+nc.sf.hardcarbon_coil0=%s hard Carbon dynamo coil
+nc.sf.hardcarbon_coil1=%s hard Carbon dynamo coils
+nc.sf.zircalloy_coil0=%s Zircalloy dynamo coil
+nc.sf.zircalloy_coil1=%s Zircalloy dynamo coils
+nc.sf.thermoconducting_coil0=%s Thermoconducting Alloy dynamo coil
+nc.sf.thermoconducting_coil1=%s Thermoconducting Alloy dynamo coils
