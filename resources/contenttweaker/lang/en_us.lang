@@ -14,6 +14,11 @@ tile.nuclearcraft.turbine_dynamo_coil_carobbiite.name=Carobbiite Turbine Dynamo 
 tile.nuclearcraft.turbine_dynamo_coil_hardcarbon.name=Hard Carbon Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_zircalloy.name=Zircalloy Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_thermoconducting.name=Thermoconducting Alloy Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_empty.name=Unfinished Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_iron.name=Iron Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_quartz.name=Quartz Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_Boron.name=Boron Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_arsenic.name=Arsenic Turbine Dynamo Coil
 
 
 
@@ -43,3 +48,13 @@ nc.sf.zircalloy_coil0=%s Zircalloy dynamo coil
 nc.sf.zircalloy_coil1=%s Zircalloy dynamo coils
 nc.sf.thermoconducting_coil0=%s Thermoconducting Alloy dynamo coil
 nc.sf.thermoconducting_coil1=%s Thermoconducting Alloy dynamo coils
+nc.sf.empty_coil0=%s Unfinished dynamo coil
+nc.sf.empty_coil1=%s Unfinished dynamo coils
+nc.sf.iron_coil0=%s Iron dynamo coil
+nc.sf.iron_coil1=%s Iron dynamo coils
+nc.sf.quartz_coil0=%s Quartz dynamo coil
+nc.sf.quartz_coil1=%s Quartz dynamo coils
+nc.sf.boron_coil0=%s Boron dynamo coil
+nc.sf.boron_coil1=%s Boron dynamo coils
+nc.sf.arsenic_coil0=%s Arsenic dynamo coil
+nc.sf.arsenic_coil1=%s Arsenic dynamo coils
