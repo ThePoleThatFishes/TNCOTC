@@ -14,7 +14,7 @@ mods.nuclearcraft.Registration.registerTurbineCoil("hardcarbon", 1.22, "two axia
 mods.nuclearcraft.Registration.registerTurbineCoil("zircalloy", 1.20, "one hardcarbon coil");
 mods.nuclearcraft.Registration.registerTurbineCoil("thermoconducting", 1.30, "one magnesium coil && one aluminum coil");
 mods.nuclearcraft.Registration.registerTurbineCoil("empty",0.10, "one of any coil");
-mods.nuclearcraft.Registration.registerTurbineCoil("iron",0.96, "one magnesium coil && one bearing");
-mods.nuclearcraft.Registration.registerTurbineCoil("boron",1.04, "one iron coil");
+mods.nuclearcraft.Registration.registerTurbineCoil("iron",0.97, "one magnesium coil && one bearing");
+mods.nuclearcraft.Registration.registerTurbineCoil("boron",1.11, "two axial iron coils");
 mods.nuclearcraft.Registration.registerTurbineCoil("quartz",1.25, "two axial silver coils");
 mods.nuclearcraft.Registration.registerTurbineCoil("arsenic",1.09, "one iron coil || three graphite coils");
