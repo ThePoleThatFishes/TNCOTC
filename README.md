@@ -11,11 +11,11 @@ Graphite: needs Beryllium, 107%
 
 Lithium: needs Graphite and Coil Connector, 110%
 
-Lapis: needs 2 Silver, 125%
+Lapis: needs 2 Silver, 121%
 
 Emerald: needs Graphite and Lapis, 118%
 
-Diamond: 4 of any Coil , 122%
+Diamond: two axial graphite and two axial copper , 122%
 
 Villaumite: exactly 2 axial Copper, 116%
 
@@ -37,3 +37,8 @@ arsenic: one iron or 3 graphite, 109%
 
 quartz: two axial silver, 125%
 
+glowstone: one magnesium && two copper , 108%
+
+nether brick: two gold , 107%
+
+obisidan: one silver and one carobbiite, 107%
