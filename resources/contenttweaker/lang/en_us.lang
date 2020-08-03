@@ -17,8 +17,11 @@ tile.nuclearcraft.turbine_dynamo_coil_thermoconducting.name=Thermoconducting All
 tile.nuclearcraft.turbine_dynamo_coil_empty.name=Unfinished Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_iron.name=Iron Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_quartz.name=Quartz Turbine Dynamo Coil
-tile.nuclearcraft.turbine_dynamo_coil_Boron.name=Boron Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_boron.name=Boron Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_arsenic.name=Arsenic Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_glowstone.name=Glowstone Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_nether.name=Nether Brick Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_obsidian.name=Obsidian Turbine Dynamo Coil
 
 
 
@@ -58,3 +61,9 @@ nc.sf.boron_coil0=%s Boron dynamo coil
 nc.sf.boron_coil1=%s Boron dynamo coils
 nc.sf.arsenic_coil0=%s Arsenic dynamo coil
 nc.sf.arsenic_coil1=%s Arsenic dynamo coils
+nc.sf.glowstone_coil0=%s Glowstone dynamo coil
+nc.sf.glowstone_coil1=%s Glowstone dynamo coils
+nc.sf.nether_coil0=%s Nether Brick dynamo coil
+nc.sf.nether_coil1=%s Nether Brick dynamo coils
+nc.sf.obsidian_coil0=%s Obsidian dynamo coil
+nc.sf.obsidian_coil1=%s Obsidian dynamo coils
