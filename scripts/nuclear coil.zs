@@ -25,7 +25,7 @@ mods.nuclearcraft.Registration.registerTurbineCoil("nak",1.06, "two connector ")
 mods.nuclearcraft.Registration.registerTurbineCoil("corium",0.95, "one connector ");
 mods.nuclearcraft.Registration.registerTurbineCoil("end",1.13, "two axial connector && one magnesium coil ");
 mods.nuclearcraft.Registration.registerTurbineCoil("prismarine",1.08, "one beryllium coil && one connector ");
-mods.nuclearcraft.Registration.registerTurbineCoil("purpur",1.03, "one nak coil ");
+mods.nuclearcraft.Registration.registerTurbineCoil("purpur",1.05, "one nak coil ");
 
 
 
