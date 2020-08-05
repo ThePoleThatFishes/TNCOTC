@@ -22,6 +22,14 @@ tile.nuclearcraft.turbine_dynamo_coil_arsenic.name=Arsenic Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_glowstone.name=Glowstone Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_nether.name=Nether Brick Turbine Dynamo Coil
 tile.nuclearcraft.turbine_dynamo_coil_obsidian.name=Obsidian Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_end.name=End Stone Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_purpur.name=Purpur Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_prismarine.name=Prismarine Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_nak.name=Eutectic NaK Turbine Dynamo Coil
+tile.nuclearcraft.turbine_dynamo_coil_corium.name=Corium Turbine Dynamo Coil
+
+
+
 
 
 
@@ -33,8 +41,8 @@ nc.sf.graphite_coil0=%s Graphite dynamo coil
 nc.sf.graphite_coil1=%s Graphite dynamo coils
 nc.sf.lithium_coil0=%s Lithium dynamo coil
 nc.sf.lithium_coil1=%s Lithium dynamo coils
-nc.sf.lapis_coil0=%s lapis dynamo coil
-nc.sf.lapis_coil1=%s lapis dynamo coils
+nc.sf.lapis_coil0=%s Lapis dynamo coil
+nc.sf.lapis_coil1=%s Lapis dynamo coils
 nc.sf.emerald_coil0=%s Emerald dynamo coil
 nc.sf.emerald_coil1=%s Emerald dynamo coils
 nc.sf.diamond_coil0=%s Diamond dynamo coil
@@ -67,3 +75,16 @@ nc.sf.nether_coil0=%s Nether Brick dynamo coil
 nc.sf.nether_coil1=%s Nether Brick dynamo coils
 nc.sf.obsidian_coil0=%s Obsidian dynamo coil
 nc.sf.obsidian_coil1=%s Obsidian dynamo coils
+nc.sf.end_coil0=%s End Stone dynamo coil
+nc.sf.end_coil1=%s End Stone dynamo coils
+nc.sf.purpur_coil0=%s Purpur Stone dynamo coil
+nc.sf.purpur_coil1=%s Purpur Stone dynamo coils
+nc.sf.prismarine_coil0=%s Prismarine dynamo coil
+nc.sf.prismarine_coil1=%s Prismarine dynamo coils
+nc.sf.nak_coil0=%s Eutectic NaK dynamo coil
+nc.sf.nak_coil1=%s Eutectic NaK dynamo coils
+nc.sf.corium_coil0=%s Corium dynamo coil
+nc.sf.corium_coil1=%s Corium dynamo coils
+
+
+
