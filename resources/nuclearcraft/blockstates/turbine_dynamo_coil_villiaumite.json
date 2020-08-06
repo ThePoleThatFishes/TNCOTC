@@ -3,7 +3,7 @@
 	"defaults": {
 		"model":"cube_all",
 		"textures": {
-			"all": "nuclearcraft:blocks/coil_villaumite"
+			"all": "nuclearcraft:blocks/coil_villiaumite"
 		}
 	},
 	"variants": {

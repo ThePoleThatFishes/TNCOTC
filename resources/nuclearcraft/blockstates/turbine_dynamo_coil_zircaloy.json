@@ -3,7 +3,7 @@
 	"defaults": {
 		"model":"cube_all",
 		"textures": {
-			"all": "nuclearcraft:blocks/coil_zircalloy"
+			"all": "nuclearcraft:blocks/coil_zircaloy"
 		}
 	},
 	"variants": {
